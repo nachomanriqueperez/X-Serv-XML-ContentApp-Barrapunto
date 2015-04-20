@@ -1,4 +1,4 @@
 from django.contrib import admin
-from models import PutApp
+from models import Put_App
 
-admin.site.register(PutApp)
+admin.site.register(Put_App)
